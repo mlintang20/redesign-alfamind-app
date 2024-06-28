@@ -1,0 +1,1 @@
+# redesign-alfamind-app
